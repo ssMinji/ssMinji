@@ -2,7 +2,6 @@
 
 ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20I'm%20Minji%20Song!&fontAlign=40&fontAlignY=40&color=gradient)
 
-<div align="center">
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FssMinji&count_bg=%23DF2352&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### BE Developer 💻
@@ -38,4 +37,4 @@
 
 ### 🚌 Top Langs & Algorithm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji&layout=compact)
-</div>
+
