@@ -13,6 +13,8 @@
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
 
+
+
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
@@ -39,3 +41,7 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji&layout=compact)
+
+![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssMinji&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji)](https://github.com/ssMinji/github-readme-stats)
