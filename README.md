@@ -41,7 +41,3 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji&layout=compact)
-
-![Minji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssMinji&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji)](https://github.com/ssMinji/github-readme-stats)
