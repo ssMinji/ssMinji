@@ -2,6 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FssMinji%2Fhit-counter&count_bg=%23B51FCD&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)  
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssminji%2Fhit-counter&count_bg=%23C83DBB&title_bg=%231710D7&icon=bilibili.svg&icon_color=%23D31616&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ### BE Developer, also interested in DevOps!
  
 ### Interests 
@@ -12,6 +14,8 @@
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)
+
+![python](https://img.shields.io/badge/python-f0f8ff?style=for-the-badge&logo=python&logoColor=3776AB)
 
 
 
@@ -39,5 +43,9 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssminji&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssminji&layout=compact)](https://github.com/ssminji/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji&layout=compact)
