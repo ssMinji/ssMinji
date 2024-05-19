@@ -48,4 +48,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssminji&layout=compact)](https://github.com/ssminji/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssMinji&layout=compact)
