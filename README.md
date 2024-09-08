@@ -1,6 +1,6 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Minji&fontAlign=33&fontAlignY=36)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20Minji&fontColor=ffffff&fontAlign=49&fontAlignY=38)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssminji%2Fhit-counter&count_bg=%23C9DD6D&title_bg=%23DF236E&icon=smugmug.svg&icon_color=%23BEBCBC&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssminji%2Fhit-counter&count_bg=%23CCE112&title_bg=%23DF1244&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ### BE Devloper, also interested in DevOps! 
 안녕하세요, 항상 새로운 것에 도전하는 백엔드 엔지니어 송민지입니다! 
@@ -39,7 +39,8 @@
 ![intellij](https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white) 
+![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssminji&layout=compact)
 ![ssMinji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssminji&show_icons=true&theme=radical)
