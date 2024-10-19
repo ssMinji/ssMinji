@@ -2,8 +2,8 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssminji%2Fhit-counter&count_bg=%2304517C&title_bg=%2356C8E3&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 
-### AI Engineer, also interested in DevOps!  
-안녕하세요, 항상 새로운 것에 도전하는 AI 엔지니어 송민지입니다!
+### BE Devloper, also interested in DevOps! 
+안녕하세요, 항상 새로운 것에 도전하는 백엔드 엔지니어 송민지입니다! 
 
 ### SKILLS
 **Langs and frameworks**<br>
