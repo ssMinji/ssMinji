@@ -1,9 +1,9 @@
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Minji!&fontAlign=34&fontAlignY=45)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi,%20I'm%20Minji!&fontAlign=51&fontAlignY=37)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssminji%2Fhit-counter&count_bg=%23266CC2&title_bg=%2357A6DF&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fssminji%2Fhit-counter&count_bg=%2304517C&title_bg=%2356C8E3&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90%EC%88%98&edge_flat=true)](https://hits.seeyoufarm.com)
 
-### FE Developer, also interested in Full-stack!
-안녕하세요, 항상 새로운것에 도전하는 프론트엔드 엔지니어 송민지입니다! 
+### BE Devloper, also interested in DevOps! 
+안녕하세요, 항상 새로운 것에 도전하는 백엔드 엔지니어 송민지입니다! 
 
 ### SKILLS
 **Langs and frameworks**<br>
@@ -40,5 +40,9 @@
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)  
 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssminji&layout=compact)
 ![ssminji's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssminji&show_icons=true&theme=tokyonight)
+
+
+
